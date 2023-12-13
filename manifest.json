@@ -2,10 +2,10 @@
   "name": "Teste",
   "short_description": "Teste para ver as funcionalidades dos Apps",
   "description": "Teste para ver as funcionalidades dos Apps",
-  "icon": "http://www.unicamp.br/unicamp/sites/default/files/logotipo/PRE_VERM.TIF",
+  "icon": "http://www.unicamp.br/unicamp/sites/default/files/logotipo/uec.svg",
   "author": "Julien Simões Rosa",
   "init_url": "./",
-  "screenshots": ["https://www.unicamp.br/unicamp/sites/default/files/logotipo/BRA_VERM.JPG"],
+  "screenshots": ["http://www.unicamp.br/unicamp/sites/default/files/logotipo/uec.svg"],
   "features": [
     "pipe-buttons"
   ]
